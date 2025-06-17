@@ -1,0 +1,42 @@
+{
+  "BBRI": {
+    "status": "BUY",
+    "harga": 4600,
+    "tp": 5000,
+    "sl": 4400
+  },
+  "TLKM": {
+    "status": "HOLD"
+  },
+  "update": "17/6/2025, 08.00",
+  "ASII": {
+    "status": "BUY",
+    "harga": 6480,
+    "tp": 6700,
+    "sl": 6300
+  },
+  "BBCA": {
+    "status": "BUY",
+    "harga": 9180,
+    "tp": 9500,
+    "sl": 8900
+  },
+  "UNVR": {
+    "status": "HOLD"
+  },
+  "MDKA": {
+    "status": "HOLD"
+  },
+  "ANTM": {
+    "status": "BUY",
+    "harga": 1800,
+    "tp": 2000,
+    "sl": 1650
+  },
+  "ADRO": {
+    "status": "BUY",
+    "harga": 2940,
+    "tp": 3150,
+    "sl": 2820
+  }
+}
